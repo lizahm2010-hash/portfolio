@@ -13,3 +13,7 @@ a{
     padding: 4%;
     margin: 6%;
 }
+
+ul{
+    display: flex;
+}
